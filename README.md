@@ -1,2 +1,2 @@
 # treadstone
-data science
+data science tutorial
